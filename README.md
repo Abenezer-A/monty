@@ -20,4 +20,4 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 ```
 
 ## Author 
-> -🤵🏽 [Dagem Tsehay](https://github.com/dagemtsehay1)
+> -🤵🏽 [Abenezer Alemayehu](https://github.com/cepheus-king)
